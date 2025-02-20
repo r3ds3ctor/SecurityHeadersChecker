@@ -16,15 +16,15 @@ SecurityHeadersChecker is a Python tool that checks for the presence of security
 ## Installation
 
 ## 1.Clone the repository:
-   '''bash
+   ```bash
    git clone https://github.com/yourusername/SecurityHeadersChecker.git
    cd SecurityHeadersChecker
-
+```
 ## 2.Install Dependencies
 
-'''bash
+```bash
 pip install -r requirements.txt
-
+```
 ## 3.Usage
 Run the script with Python:
 python security_checker.py
