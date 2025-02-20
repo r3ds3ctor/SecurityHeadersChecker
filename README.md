@@ -35,7 +35,15 @@ python security_checker.py
 
 
 ## Contributions
-Contributions are welcome. Please open an issue or submit a pull request if you have any improvements or fixes.
+Contributions are welcome! If you have improvements or bug fixes, feel free to submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## Licence
+This project is licensed under the MIT License.
+
+Developed by [Alexander B]
+
+## 🤝 Contributing
+This project thrives on community contributions. If you'd like to suggest improvements, report issues, or add new features, feel free to open a pull request.  
+If you’d like to support future development, you can do so here: 
+
+☕ [buymeacoffee.com/alexboteroh]
